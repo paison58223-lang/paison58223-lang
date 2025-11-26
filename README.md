@@ -26,5 +26,5 @@
 ## 🌱 Activity Graph（稼働状況）
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paison58223-lang&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=paison58223-lang&theme=tokyo-night&area=true&hide_border=true" />
 </p>
