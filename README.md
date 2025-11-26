@@ -1,6 +1,7 @@
 <h1 align="center">🐉 やまちゃん</h1>
 <p align="center">Excel / Access を軸に開発中のプログラマー</p>
 <p align="center"><i>“継続と挑戦を、少しずつ積み重ねて。”</i></p>
+![Profile Visits](https://hits.sh/paison58223-lang.github.io/paison58223-lang.svg?style=flat-square&label=profile)
 
 ---
 
