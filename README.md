@@ -26,5 +26,5 @@
 ## 🌱 Activity Graph（稼働状況）
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=paison58223-lang&theme=tokyo-night&area=true&hide_border=true" />
+  <img src="https://green-wall.leoku.dev/api/og/share/paison58223-lang" alt="GitHub Contributions Grass">
 </p>
