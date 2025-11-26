@@ -7,7 +7,8 @@
 ### 🌱 About Me
 - GitHubをポートフォリオにしようと画策中…
 - 趣味：RedStone / DQウォーク / あたりめとコーヒー ☕🦑
-- 
+<br>
+  
 <p align="center">
   <img src="https://img.shields.io/badge/Excel-VBA-217346?style=flat-square&logo=microsoft-excel&logoColor=white">
   <img src="https://img.shields.io/badge/Access-DB-A4373A?style=flat-square&logo=microsoft-access&logoColor=white">
