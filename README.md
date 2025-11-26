@@ -26,13 +26,5 @@
 ## 🌱 Activity Graph（稼働状況）
 
 <p align="center">
-  <img src="https://hits.sh/paison58223-lang.github.io/paison58223-lang.svg?style=flat-square&label=Profile%20Visits" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paison58223-lang&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=paison58223-lang&theme=github-dark&area=true" />
 </p>
