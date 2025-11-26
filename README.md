@@ -13,11 +13,6 @@
   <img src="https://img.shields.io/badge/Access-DB-A4373A?style=flat-square&logo=microsoft-access&logoColor=white">
  </p>
 
- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paison58223-lang&show_icons=true&theme=tokyonight" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paison58223-lang&layout=compact&theme=tokyonight" height="150">
-</p>
-
 ## 🗂️ Notes & Portfolio
 
 ### 📘 Technology Notes
