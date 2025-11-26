@@ -26,5 +26,5 @@
 ## 🌱 Activity Graph（稼働状況）
 
 <p align="center">
-  <img src="https://green-wall.leoku.dev/api/og/share/paison58223-lang" alt="GitHub Contributions Grass">
+  <img src="https://green-wall.leoku.dev/paison58223-lang" alt="GitHub Contributions Grass">
 </p>
