@@ -2,9 +2,8 @@
 <p align="center">Excel / Access を軸に開発中のプログラマー</p>
 <p align="center"><i>“継続と挑戦を、少しずつ積み重ねて。”</i></p>
 <p align="center">
-![Profile Visits](https://hits.sh/paison58223-lang.github.io/paison58223-lang.svg?style=flat-square&label=profile)
+  <img src="https://hits.sh/paison58223-lang.github.io/paison58223-lang.svg?style=flat-square&label=profile" alt="Profile Visits">
 </p>
----
 
 ### 🌱 About Me
 - GitHubをポートフォリオにしようと画策中…
