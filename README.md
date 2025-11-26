@@ -26,5 +26,6 @@
 ## 🌱 Activity Graph（稼働状況）
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paison58223-lang&theme=github_dark" />
+  <img src="https://ghchart.rshah.org/paison58223-lang"
+       alt="GitHub Contributions (paison58223-lang)" />
 </p>
