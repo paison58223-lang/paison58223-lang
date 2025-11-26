@@ -17,7 +17,7 @@
 ## 🗂️ Notes & Portfolio
 
 ### 📘 Technology Notes
-- 📗 [Excel VBA 開発ノート](https://github.com/paison58223-lang/TechnologyNote)
+- 📗 [Excel VBA 開発ノート](https://paison58223-lang.github.io/TechnologyNote/)
 
 ### 🛠️ Tools / Portfolio
 - 🔧 Coming Soon...
